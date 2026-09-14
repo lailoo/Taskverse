@@ -1,0 +1,402 @@
+{
+  "source": "Direct screenshots of the running application; no composited sprites or overlays",
+  "language": "zh",
+  "fixture": "60 synthetic task nodes; no local project data",
+  "taskNodes": 60,
+  "renderedPlots": 60,
+  "taskPlots": 59,
+  "stages": {
+    "complete": 41,
+    "construction": 6,
+    "suspended": 6,
+    "foundation": 6,
+    "landmark": 1
+  },
+  "residents": 96,
+  "frames": 180,
+  "fps": 12,
+  "durationSeconds": 15,
+  "distinctMotionFrames": 180,
+  "nativePauseVerified": true,
+  "runtimeErrors": [],
+  "apiRequestsIntercepted": [
+    {
+      "path": "/api/project",
+      "method": "GET"
+    },
+    {
+      "path": "/api/project",
+      "method": "GET"
+    },
+    {
+      "path": "/api/project",
+      "method": "GET"
+    },
+    {
+      "path": "/api/project",
+      "method": "PUT"
+    }
+  ],
+  "plots": [
+    {
+      "id": "demo-district-1",
+      "stage": "complete",
+      "status": "done",
+      "kind": "cottage"
+    },
+    {
+      "id": "demo-district-1-1",
+      "stage": "construction",
+      "status": "doing",
+      "kind": "studio"
+    },
+    {
+      "id": "demo-district-1-2",
+      "stage": "complete",
+      "status": "done",
+      "kind": "pavilion"
+    },
+    {
+      "id": "demo-district-1-3",
+      "stage": "suspended",
+      "status": "waiting",
+      "kind": "florist"
+    },
+    {
+      "id": "demo-district-1-4",
+      "stage": "complete",
+      "status": "done",
+      "kind": "tavern"
+    },
+    {
+      "id": "demo-district-1-5",
+      "stage": "foundation",
+      "status": "todo",
+      "kind": "boutique"
+    },
+    {
+      "id": "demo-district-1-6",
+      "stage": "complete",
+      "status": "done",
+      "kind": "station"
+    },
+    {
+      "id": "demo-district-1-7",
+      "stage": "complete",
+      "status": "done",
+      "kind": "inn"
+    },
+    {
+      "id": "demo-district-1-8",
+      "stage": "complete",
+      "status": "done",
+      "kind": "warehouse"
+    },
+    {
+      "id": "demo-district-1-9",
+      "stage": "complete",
+      "status": "done",
+      "kind": "bank"
+    },
+    {
+      "id": "demo-district-1-10",
+      "stage": "complete",
+      "status": "done",
+      "kind": "postoffice"
+    },
+    {
+      "id": "demo-district-1-11",
+      "stage": "construction",
+      "status": "doing",
+      "kind": "cottage"
+    },
+    {
+      "id": "demo-district-1-12",
+      "stage": "complete",
+      "status": "done",
+      "kind": "watchtower"
+    },
+    {
+      "id": "demo-district-1-13",
+      "stage": "suspended",
+      "status": "waiting",
+      "kind": "camp"
+    },
+    {
+      "id": "demo-district-1-14",
+      "stage": "complete",
+      "status": "done",
+      "kind": "chapel"
+    },
+    {
+      "id": "demo-district-1-15",
+      "stage": "foundation",
+      "status": "todo",
+      "kind": "grandhotel"
+    },
+    {
+      "id": "demo-district-2",
+      "stage": "complete",
+      "status": "done",
+      "kind": "bank"
+    },
+    {
+      "id": "demo-district-2-1",
+      "stage": "complete",
+      "status": "done",
+      "kind": "studio"
+    },
+    {
+      "id": "demo-district-2-2",
+      "stage": "complete",
+      "status": "done",
+      "kind": "pavilion"
+    },
+    {
+      "id": "demo-district-2-3",
+      "stage": "complete",
+      "status": "done",
+      "kind": "florist"
+    },
+    {
+      "id": "demo-district-2-4",
+      "stage": "complete",
+      "status": "done",
+      "kind": "tavern"
+    },
+    {
+      "id": "demo-district-2-5",
+      "stage": "construction",
+      "status": "doing",
+      "kind": "boutique"
+    },
+    {
+      "id": "demo-district-2-6",
+      "stage": "complete",
+      "status": "done",
+      "kind": "station"
+    },
+    {
+      "id": "demo-district-2-7",
+      "stage": "suspended",
+      "status": "waiting",
+      "kind": "inn"
+    },
+    {
+      "id": "demo-district-2-8",
+      "stage": "complete",
+      "status": "done",
+      "kind": "warehouse"
+    },
+    {
+      "id": "demo-district-2-9",
+      "stage": "foundation",
+      "status": "todo",
+      "kind": "bank"
+    },
+    {
+      "id": "demo-district-2-10",
+      "stage": "complete",
+      "status": "done",
+      "kind": "postoffice"
+    },
+    {
+      "id": "demo-district-2-11",
+      "stage": "complete",
+      "status": "done",
+      "kind": "cottage"
+    },
+    {
+      "id": "demo-district-2-12",
+      "stage": "complete",
+      "status": "done",
+      "kind": "watchtower"
+    },
+    {
+      "id": "demo-district-2-13",
+      "stage": "complete",
+      "status": "done",
+      "kind": "camp"
+    },
+    {
+      "id": "demo-district-2-14",
+      "stage": "complete",
+      "status": "done",
+      "kind": "chapel"
+    },
+    {
+      "id": "demo-district-3",
+      "stage": "construction",
+      "status": "doing",
+      "kind": "inn"
+    },
+    {
+      "id": "demo-district-3-1",
+      "stage": "complete",
+      "status": "done",
+      "kind": "studio"
+    },
+    {
+      "id": "demo-district-3-2",
+      "stage": "suspended",
+      "status": "waiting",
+      "kind": "pavilion"
+    },
+    {
+      "id": "demo-district-3-3",
+      "stage": "complete",
+      "status": "done",
+      "kind": "florist"
+    },
+    {
+      "id": "demo-district-3-4",
+      "stage": "foundation",
+      "status": "todo",
+      "kind": "tavern"
+    },
+    {
+      "id": "demo-district-3-5",
+      "stage": "complete",
+      "status": "done",
+      "kind": "boutique"
+    },
+    {
+      "id": "demo-district-3-6",
+      "stage": "complete",
+      "status": "done",
+      "kind": "station"
+    },
+    {
+      "id": "demo-district-3-7",
+      "stage": "complete",
+      "status": "done",
+      "kind": "inn"
+    },
+    {
+      "id": "demo-district-3-8",
+      "stage": "complete",
+      "status": "done",
+      "kind": "warehouse"
+    },
+    {
+      "id": "demo-district-3-9",
+      "stage": "complete",
+      "status": "done",
+      "kind": "bank"
+    },
+    {
+      "id": "demo-district-3-10",
+      "stage": "construction",
+      "status": "doing",
+      "kind": "postoffice"
+    },
+    {
+      "id": "demo-district-3-11",
+      "stage": "complete",
+      "status": "done",
+      "kind": "cottage"
+    },
+    {
+      "id": "demo-district-3-12",
+      "stage": "suspended",
+      "status": "waiting",
+      "kind": "watchtower"
+    },
+    {
+      "id": "demo-district-3-13",
+      "stage": "complete",
+      "status": "done",
+      "kind": "camp"
+    },
+    {
+      "id": "demo-district-4",
+      "stage": "foundation",
+      "status": "todo",
+      "kind": "warehouse"
+    },
+    {
+      "id": "demo-district-4-1",
+      "stage": "complete",
+      "status": "done",
+      "kind": "studio"
+    },
+    {
+      "id": "demo-district-4-2",
+      "stage": "complete",
+      "status": "done",
+      "kind": "pavilion"
+    },
+    {
+      "id": "demo-district-4-3",
+      "stage": "complete",
+      "status": "done",
+      "kind": "florist"
+    },
+    {
+      "id": "demo-district-4-4",
+      "stage": "complete",
+      "status": "done",
+      "kind": "tavern"
+    },
+    {
+      "id": "demo-district-4-5",
+      "stage": "complete",
+      "status": "done",
+      "kind": "boutique"
+    },
+    {
+      "id": "demo-district-4-6",
+      "stage": "construction",
+      "status": "doing",
+      "kind": "station"
+    },
+    {
+      "id": "demo-district-4-7",
+      "stage": "complete",
+      "status": "done",
+      "kind": "inn"
+    },
+    {
+      "id": "demo-district-4-8",
+      "stage": "suspended",
+      "status": "waiting",
+      "kind": "warehouse"
+    },
+    {
+      "id": "demo-district-4-9",
+      "stage": "complete",
+      "status": "done",
+      "kind": "bank"
+    },
+    {
+      "id": "demo-district-4-10",
+      "stage": "foundation",
+      "status": "todo",
+      "kind": "postoffice"
+    },
+    {
+      "id": "demo-district-4-11",
+      "stage": "complete",
+      "status": "done",
+      "kind": "cottage"
+    },
+    {
+      "id": "demo-district-4-12",
+      "stage": "complete",
+      "status": "done",
+      "kind": "watchtower"
+    },
+    {
+      "id": "demo-district-4-13",
+      "stage": "complete",
+      "status": "done",
+      "kind": "camp"
+    },
+    {
+      "id": "demo-root",
+      "stage": "landmark",
+      "status": "doing",
+      "kind": "windmill"
+    }
+  ]
+}

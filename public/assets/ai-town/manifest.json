@@ -1,0 +1,62 @@
+{
+  "repository": "https://github.com/a16z-infra/ai-town",
+  "commit": "8e05997f2409275669c8344b84a51692e83f3f33",
+  "acquisition": "Official codeload archive; git HTTPS transport failed in this environment.",
+  "files": {
+    "gentle-obj.png": {
+      "upstream": "public/assets/gentle-obj.png",
+      "sha256": "5904eabab04bd171947ab70c0871786e4114f176c9d8ae6d79e2b3e8988a519e",
+      "bytes": 1073813
+    },
+    "rpg-tileset.png": {
+      "upstream": "public/assets/rpg-tileset.png",
+      "sha256": "5a13fdcc235660070e4c7b9185ed2cb7a854d5d9bd1837c2720e2ffd6c1dd99b",
+      "bytes": 196214
+    },
+    "magecity.png": {
+      "upstream": "public/assets/magecity.png",
+      "sha256": "4190a879c1df16fffacf8386f61f95581fa4a4e2c1902de4d7d4e4769b21e629",
+      "bytes": 166930
+    },
+    "32x32folk.png": {
+      "upstream": "public/assets/32x32folk.png",
+      "sha256": "4f82a3bf6f037698ad94ae4b7309a43bd68e2397a04891de9717edc56e7630d5",
+      "bytes": 179178
+    },
+    "windmill.png": {
+      "upstream": "public/assets/spritesheets/windmill.png",
+      "sha256": "ab26e6ebecea598d94455c53d099cb89cfbb8717bbe710d7a211774c4bdd8040",
+      "bytes": 47931
+    },
+    "campfire.png": {
+      "upstream": "public/assets/spritesheets/campfire.png",
+      "sha256": "a2ddb2d3048c649c7e49f784227c586ae52c1593deb7b302a123e2f26e14b16b",
+      "bytes": 464
+    },
+    "gentlewaterfall32.png": {
+      "upstream": "public/assets/spritesheets/gentlewaterfall32.png",
+      "sha256": "3db85a8ac3dd06389da5dba5bb432c61964c1dd56f573ae955fc9a12e6f00525",
+      "bytes": 97465
+    },
+    "windmill.json": {
+      "upstream": "data/animations/windmill.json",
+      "sha256": "5822f681bd0d707ab76ca8ea8f051bf9fdcf41f855f5b37c0a8cd99b80f10a95",
+      "bytes": 2407
+    },
+    "campfire.json": {
+      "upstream": "data/animations/campfire.json",
+      "sha256": "90aa5d85d03e801a5f5345e691f522e8b894e7889216ade5c0f963ea940a7acb",
+      "bytes": 988
+    },
+    "gentlewaterfall.json": {
+      "upstream": "data/animations/gentlewaterfall.json",
+      "sha256": "f00216cda7739c8472e4c8588b91251aab4eafd97f02607ef2be36c8bbf41203",
+      "bytes": 1413
+    },
+    "gentlesplash.json": {
+      "upstream": "data/animations/gentlesplash.json",
+      "sha256": "daefb9af5b5bfc31f10d4c3bc39931abd2fb564852f90e7aa8a68d192d335de7",
+      "bytes": 1419
+    }
+  }
+}

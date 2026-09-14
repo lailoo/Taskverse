@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/pollen-robotics/microduck_rl",
+  "commit": "1e79c29c97d8b38aee9eefde77a545860ba7658e",
+  "source": "src/mjlab_microduck/robot/microduck/robot_walk.xml",
+  "license": "Apache-2.0",
+  "copyright": "Copyright 2026 Pollen Robotics",
+  "changes": "Visual meshes converted from STL/MJCF to indexed GLB; joint frames retained. Browser animation is custom, not the learned robot policy."
+}

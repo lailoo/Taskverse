@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Taskverse mark</title>
+  <desc id="desc">A minimal T-shaped task graph with three connected nodes.</desc>
+  <defs>
+    <linearGradient id="t" x1="29" y1="27" x2="98" y2="101" gradientUnits="userSpaceOnUse"><stop stop-color="#A9E9FF"/><stop offset=".52" stop-color="#718DFF"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient>
+    <linearGradient id="route" x1="25" y1="91" x2="104" y2="42" gradientUnits="userSpaceOnUse"><stop stop-color="#6EF0CF"/><stop offset="1" stop-color="#B6F3FF"/></linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#11182F"/>
+  <path d="M30 35h68M64 35v58" fill="none" stroke="url(#t)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M25 89c16-2 24-21 39-21 16 0 18 14 30 9 6-2 10-10 14-17" fill="none" stroke="#070D20" stroke-width="12" stroke-linecap="round"/>
+  <path d="M25 89c16-2 24-21 39-21 16 0 18 14 30 9 6-2 10-10 14-17" fill="none" stroke="url(#route)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="30" cy="35" r="7" fill="#DDF9FF" stroke="#11182F" stroke-width="4"/>
+  <circle cx="25" cy="89" r="7" fill="#6EF0CF" stroke="#11182F" stroke-width="4"/>
+  <circle cx="64" cy="68" r="7" fill="#F7F9FF" stroke="#11182F" stroke-width="4"/>
+  <circle cx="108" cy="42" r="7" fill="#9B6BFF" stroke="#11182F" stroke-width="4"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 156" role="img" aria-labelledby="title desc">
+  <title id="title">Taskverse</title>
+  <desc id="desc">Taskverse minimal task graph logo.</desc>
+  <defs>
+    <linearGradient id="t" x1="29" y1="27" x2="98" y2="101" gradientUnits="userSpaceOnUse"><stop stop-color="#A9E9FF"/><stop offset=".52" stop-color="#718DFF"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient>
+    <linearGradient id="route" x1="25" y1="91" x2="104" y2="42" gradientUnits="userSpaceOnUse"><stop stop-color="#6EF0CF"/><stop offset="1" stop-color="#B6F3FF"/></linearGradient>
+  </defs>
+  <rect x="2" y="2" width="152" height="152" rx="39" fill="#11182F"/>
+  <path d="M32 37h68M66 37v58" fill="none" stroke="url(#t)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M27 91c16-2 24-21 39-21 16 0 18 14 30 9 6-2 10-10 14-17" fill="none" stroke="#070D20" stroke-width="12" stroke-linecap="round"/>
+  <path d="M27 91c16-2 24-21 39-21 16 0 18 14 30 9 6-2 10-10 14-17" fill="none" stroke="url(#route)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="32" cy="37" r="7" fill="#DDF9FF" stroke="#11182F" stroke-width="4"/><circle cx="27" cy="91" r="7" fill="#6EF0CF" stroke="#11182F" stroke-width="4"/><circle cx="66" cy="70" r="7" fill="#F7F9FF" stroke="#11182F" stroke-width="4"/><circle cx="110" cy="44" r="7" fill="#9B6BFF" stroke="#11182F" stroke-width="4"/>
+  <text x="184" y="84" fill="#11182F" font-family="Inter, Avenir Next, Helvetica, Arial, sans-serif" font-size="60" font-weight="750" letter-spacing="-2">Task<tspan fill="#718DFF">verse</tspan></text>
+</svg>
